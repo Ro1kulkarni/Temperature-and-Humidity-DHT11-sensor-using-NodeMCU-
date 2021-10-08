@@ -5,7 +5,7 @@
 String apiKey = "************";     //  Enter your Write API key from ThingSpeak
  
 const char *ssid =  "************";     // replace with your wifi ssid and wpa2 key
-const char *pass =  "************";
+const char *pass =  "************";     // Enter Your Password
 const char* server = "api.thingspeak.com";
  
 #define DHTPIN 0          //pin where the dht11 is connected
